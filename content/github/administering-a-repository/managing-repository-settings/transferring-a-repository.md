@@ -47,7 +47,7 @@ When you transfer a repository, its issues, pull requests, wiki, stars, and watc
   ```shell
   $ git remote set-url origin <em>new_url</em>
   ```
-
+3000
 For more information, see "[Managing remote repositories](/github/getting-started-with-github/managing-remote-repositories)."
 
 ### Repository transfers and organizations
